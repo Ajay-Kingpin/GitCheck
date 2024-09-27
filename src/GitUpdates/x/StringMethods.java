@@ -43,6 +43,7 @@ public class StringMethods {
 		System.out.println (number.parseInt("98123")); //Pass different number than the declared onee
 		System.out.println (Str2.toString());
 		// Updated x to check in Y
+		// Git check update in as new branch created in Y
 		   }
 	}
 
