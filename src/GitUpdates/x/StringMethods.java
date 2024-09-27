@@ -41,7 +41,9 @@ public class StringMethods {
 		System.out.println (number1.equals(number2)); // Same number true
 		System.out.println (number.equals(number2)); // different number false
 		System.out.println (number.parseInt("98123")); //Pass different number than the declared onee
-		}
+		System.out.println (Str2.toString());
+		System.out.println (Str1.toString());
+		   }
 	}
 
 		
